@@ -14,4 +14,5 @@ func print(n int) {
 
 func main() {
 	print(10)
+	pibo(10)
 }
